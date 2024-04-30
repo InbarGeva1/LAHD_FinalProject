@@ -20,7 +20,7 @@ LAHD Affordable Housing Projects List (2003 to Present)
 - **SUPPORTIVE HOUSING** (`object`): Yes/No for total special needs if a site has at least one supportive housing unit.
 - **SH UNITS PER SITE** (`int64`): Special Needs per homeless units per site.
 - **DATE FUNDED** (`object`): Date when the project was funded.
-- **LEVERAGE** (`float64`): The amount of public and private funds leveraged for the project.
+- **LAHD FUNDED #** (`float64`): The LAHD loan amount awarded for the project.
 - **TAX EXEMPT CONDUIT BOND** (`int64`): The amount of tax exempt conduit bond issued for the project.
 - **TDC** (`float64`): Total Development Cost.
 - **IN-SERVICE DATE** (`object`): The year when the project is ready for occupany.
@@ -38,7 +38,7 @@ LAHD Affordable Housing Projects List (2003 to Present)
 
 
 ### Target Variable and Data Type
-- **LAHD FUNDED #** (`float64`): The LAHD loan amount awarded for the project.
+- **LEVERAGE** (`float64`): The amount of public and private funds leveraged for the project.
 
 ### Other Terms
 **Supportive housing** generally refers to housing that is paired with supportive services, such as mental health services, substance abuse treatment, case management, and other supportive services, to help residents maintain their housing stability and improve their overall well-being. This type of housing is often targeted towards individuals or families who are experiencing homelessness, have disabilities, or have other special needs.
