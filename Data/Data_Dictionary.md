@@ -40,6 +40,9 @@ LAHD Affordable Housing Projects List (2003 to Present)
 ### Target Variable and Data Type
 - **LAHD FUNDED #** (`float64`): Indicates whether the project is funded by the Los Angeles Housing Department (LAHD) and the corresponding funding amount.
 
+### Other Terms
+**Supportive housing** generally refers to housing that is paired with supportive services, such as mental health services, substance abuse treatment, case management, and other supportive services, to help residents maintain their housing stability and improve their overall well-being. This type of housing is often targeted towards individuals or families who are experiencing homelessness, have disabilities, or have other special needs.
+
 ## Metadata
 
 - **Source**: Data obtained from Data.gov (Feb 2024) https://catalog.data.gov/dataset/hcidla-affordable-housing-projects-list-2003-to-present
