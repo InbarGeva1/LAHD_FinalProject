@@ -45,6 +45,6 @@ LAHD Affordable Housing Projects List (2003 to Present)
 
 ## Metadata
 
-- **Source**: Data obtained from Data.gov (Feb 2024) https://catalog.data.gov/dataset/hcidla-affordable-housing-projects-list-2003-to-present
+- **Source**: Data obtained from Data.gov (Feb 2024) [https://catalog.data.gov/dataset/hcidla-affordable-housing-projects-list-2003-to-present](https://data.lacity.org/Housing-and-Real-Estate/LAHD-Affordable-Housing-Projects-List-2003-to-Pres/mymu-zi3s/about_data)
 - **Owner**: Ella Foster, Inbar Geva, Lilly Fsahaye
 - **Last Updated**: May 2nd, 2024
