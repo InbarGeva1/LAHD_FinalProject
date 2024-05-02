@@ -36,6 +36,28 @@ LAHD Affordable Housing Projects List (2003 to Present)
 - **SITE LATITUDE** (`float64`): Latitude coordinate of the project site.
 - **GPS_COORDS ON MAP** (`object`): GPS coordinates of the project site address.
 
+-------------------------------------------------------------------------------------------------------
+
+## Dataset
+Median Household Income by Council Districts
+
+## Data Attributes
+
+### Features and Data Types
+
+- **CATEGORY** (object): Broad classification of the data.
+- **INDICATOR** (object): Specific metric or measure within a category.
+- **SUB_INDICATOR** (object): Further detail within an indicator.
+- **LOCALITY** (object): Geographical area or region.
+- **GENDER** (object): Gender category, if applicable.
+- **COUNCIL_DISTRICT** (int64): Administrative division within a municipality.
+- **CALENDAR_YEAR** (int64): Year of the data.
+- **AS_OF_DATE** (object): Date when the data was recorded.
+- **UNIT_OF_MEASURE** (object): Standard unit for the data values.
+- **2017_VALUE** (float64): Data value for the year 2017.
+- **2024_VALUE** (float64): Data value for the year 2024.
+
+
 
 ### Target Variable and Data Type
 - **LEVERAGE** (`float64`): The amount of public and private funds leveraged for the project.
@@ -45,6 +67,9 @@ LAHD Affordable Housing Projects List (2003 to Present)
 
 ## Metadata
 
-- **Source**: Data obtained from Data.gov (Feb 2024) [https://catalog.data.gov/dataset/hcidla-affordable-housing-projects-list-2003-to-present](https://data.lacity.org/Housing-and-Real-Estate/LAHD-Affordable-Housing-Projects-List-2003-to-Pres/mymu-zi3s/about_data)
+**Source**: The first dataset obtained from Data.gov (Feb 2024) [https://catalog.data.gov/dataset/hcidla-affordable-housing-projects-list-2003-to-present](https://data.lacity.org/Housing-and-Real-Estate/LAHD-Affordable-Housing-Projects-List-2003-to-Pres/mymu-zi3s/about_data)
+
+The second dataset obtained from lacity.org [the Median Household Income by Council Districts](https://controllerdata.lacity.org/dataset/Median-Household-Income-by-Council-Districts/khbi-qsyb)
+
 - **Owner**: Ella Foster, Inbar Geva, Lilly Fsahaye
 - **Last Updated**: May 2nd, 2024
