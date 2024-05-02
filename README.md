@@ -12,6 +12,10 @@ Our project aims to develop a predictive model to forecast the amount of third-p
 
 We used the [HCIDLA Affordable Housing Projects List (2003 to Present)](https://catalog.data.gov/dataset/hcidla-affordable-housing-projects-list-2003-to-present) dataset as our main source of data. This dataset contains detailed information about affordable housing projects in Los Angeles, including project details, funding sources, development stages, housing types, and more.
 
+
+Additionally, we incorporated a dataset of [the Median Household Income by Council Districts](https://controllerdata.lacity.org/dataset/Median-Household-Income-by-Council-Districts/khbi-qsyb) that we located from the lacity website. This dataset provided insights into income distributions across various districts, enriching our understanding of the local economic conditions.
+
+
 Our data files can also be found [here](https://github.com/InbarGeva1/LAHD_FinalProject/tree/main/Data)
 
 
