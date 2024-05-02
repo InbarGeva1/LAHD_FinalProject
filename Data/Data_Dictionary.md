@@ -57,8 +57,7 @@ Median Household Income by Council Districts
 - **2017_VALUE** (`float64`): Data value for the year 2017.
 - **2024_VALUE** (`float64`): Data value for the year 2024.
 
-
-
+-------------------------------------------------------------------------------------------------------
 
 ### Target Variable and Data Type
 - **LEVERAGE** (`float64`): The amount of public and private funds leveraged for the project.
