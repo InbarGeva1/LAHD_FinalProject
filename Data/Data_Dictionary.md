@@ -45,17 +45,17 @@ Median Household Income by Council Districts
 
 ### Features and Data Types
 
-- **CATEGORY** (object): Broad classification of the data.
-- **INDICATOR** (object): Specific metric or measure within a category.
-- **SUB_INDICATOR** (object): Further detail within an indicator.
-- **LOCALITY** (object): Geographical area or region.
-- **GENDER** (object): Gender category, if applicable.
-- **COUNCIL_DISTRICT** (int64): Administrative division within a municipality.
-- **CALENDAR_YEAR** (int64): Year of the data.
-- **AS_OF_DATE** (object): Date when the data was recorded.
-- **UNIT_OF_MEASURE** (object): Standard unit for the data values.
-- **2017_VALUE** (float64): Data value for the year 2017.
-- **2024_VALUE** (float64): Data value for the year 2024.
+- **CATEGORY** (`object`): Broad classification of the data.
+- **INDICATOR** (`object`): Specific metric or measure within a category.
+- **SUB_INDICATOR** (`object`): Further detail within an indicator.
+- **LOCALITY** (`object`): Geographical area or region.
+- **GENDER** (`object`): Gender category, if applicable.
+- **COUNCIL_DISTRICT** (`int64`): Administrative division within a municipality.
+- **CALENDAR_YEAR** (`int64`): Year of the data.
+- **AS_OF_DATE** (`object`): Date when the data was recorded.
+- **UNIT_OF_MEASURE** (`object`): Standard unit for the data values.
+- **2017_VALUE** (`float64`): Data value for the year 2017.
+- **2024_VALUE** (`float64`): Data value for the year 2024.
 
 
 
