@@ -59,6 +59,7 @@ Median Household Income by Council Districts
 
 
 
+
 ### Target Variable and Data Type
 - **LEVERAGE** (`float64`): The amount of public and private funds leveraged for the project.
 
