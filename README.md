@@ -1,4 +1,4 @@
-# Project Title: LAHD Affordable Housing Data Analysis and Prediction
+# LAHD Affordable Housing Data Analysis and Prediction
 
 ## Overview
 
