@@ -18,6 +18,12 @@ Additionally, we incorporated a dataset of [the Median Household Income by Counc
 
 Our data files can also be found [here](https://github.com/InbarGeva1/LAHD_FinalProject/tree/main/Data)
 
+## Models used
+
+- Logistic Regression (The best model)
+- Decision Tree
+- Random Forest
+
 
 ## Contributors
 Ella Foster 
